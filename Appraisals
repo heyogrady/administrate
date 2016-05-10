@@ -26,7 +26,6 @@ appraise "rails-5" do
 
   # this fork has rails at >= 4.2, allowing rails5 to work.
   gem "administrate-field-image", github: "pedrocarmona/administrate-field-image"
-
   # rails 5+ extracts this gem, which is need for shoulda-matchers:
   gem "rails-controller-testing"
 end

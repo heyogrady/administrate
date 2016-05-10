@@ -15,4 +15,3 @@
 /tmp/*
 /spec/example_app/tmp/*
 /gemfiles/.bundle
-.byebug_history
