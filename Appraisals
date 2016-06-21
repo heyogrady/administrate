@@ -30,3 +30,4 @@ appraise "rails-5" do
   # rails 5+ extracts this gem, which is need for shoulda-matchers:
   gem "rails-controller-testing"
 end
+
